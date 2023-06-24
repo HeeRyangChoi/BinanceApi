@@ -16,8 +16,8 @@ import os
 
 #logging.getLogger("urllib3").setLevel(logging.WARNING)
 
-access = "pHAgS4uV6KXUG4SX3T738uHL4AEA8aLpbNgTzdC3"
-secret = "xcnGXyx9gnXWA9h91AlRNFrP8YnwfzyP4u0DrpT7"
+access = ""
+secret = ""
 upbit = pyupbit.Upbit(access, secret)
 
 
